@@ -1,0 +1,19 @@
+body {
+    background-image: none;
+}
+h1 {
+    color: blueviolet;
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+    height: 600px;
+    background-color: aquamarine;
+    padding: 50px;
+    border: 5px, red;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
